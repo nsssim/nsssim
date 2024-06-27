@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @nsssim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I'm Nassim! 
 
-<!---
-nsssim/nsssim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I am a technologist with a keen interest in embeded system development , microservice development and software architecture 
+
+## Skills
+
+- **Programming Languages**: C, C++ , C#, JavaScript , PHP, Go, Pascal , Logo, Python , Bash
+- **Frameworks and Libraries**: Express , Vuejs, Codeigniter , Laravel, OpenCart
+- **Tools and Platforms**: Docker, Kubernetes, Git
+- **Databases**: MySQL,  Sqlite, PostgreSQL, MongoDB, Redis, Cassandra, ScyllaDB 
+- **Other Skills**: DevOps, Agile methodologies, project management
